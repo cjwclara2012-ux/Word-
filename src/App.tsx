@@ -281,8 +281,8 @@ export default function App() {
                 <Sparkles size={48} strokeWidth={2.5} />
               </div>
               <h1 className="text-3xl md:text-4xl font-black tracking-tighter text-[#1A1A1A] mb-4">
-                멀티미디어 기반 <br />
-                <span className="text-blue-600">홍콩 토요학교 이모티콘 빙고</span>
+                홍콩 토요학교 <br />
+                <span className="text-blue-600">단어 빙고 ✏️</span>
               </h1>
               <p className="text-base text-gray-500 font-medium max-w-md mb-10 leading-relaxed">
                 교재 사진, 웹 링크, 텍스트 등 다양한 자료를 분석하여 <br />
